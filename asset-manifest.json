@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toodo-list-React/static/css/main.2fa74d7f.css",
+    "main.js": "/Toodo-list-React/static/js/main.b06f454d.js",
+    "static/js/787.5be0b290.chunk.js": "/Toodo-list-React/static/js/787.5be0b290.chunk.js",
+    "index.html": "/Toodo-list-React/index.html",
+    "main.2fa74d7f.css.map": "/Toodo-list-React/static/css/main.2fa74d7f.css.map",
+    "main.b06f454d.js.map": "/Toodo-list-React/static/js/main.b06f454d.js.map",
+    "787.5be0b290.chunk.js.map": "/Toodo-list-React/static/js/787.5be0b290.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa74d7f.css",
+    "static/js/main.b06f454d.js"
+  ]
+}
